@@ -1,0 +1,119 @@
+[
+  {
+    "id": "snake-classic",
+    "title": "Snake Arcade",
+    "price": 4.99,
+    "genre": "Arcade",
+    "description": "El clásico juego de la serpiente reinventado en HTML5 Canvas. Junta manzanas y evita chocar contra las paredes.",
+    "cover": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+    "type": "canvas",
+    "rating": 4.8,
+    "featured": true,
+    "emoji": "🐍",
+    "colors": ["#06b6d4", "#1e3a8a"],
+    "controls": "Flechas del teclado",
+    "screenshots": ["Menú principal", "Serpiente creciendo", "Pantalla de puntaje"],
+    "reviews": [
+      { "user": "NeoPlayer", "rating": 5, "comment": "Nostalgia pura, los controles responden perfecto." },
+      { "user": "ByteQueen", "rating": 5, "comment": "Adictivo. Mi récord es 340 puntos." },
+      { "user": "RetroMike", "rating": 4, "comment": "Muy bueno, le faltan niveles de dificultad." }
+    ]
+  },
+  {
+    "id": "cyber-memory",
+    "title": "Cyber Memory",
+    "price": 0.0,
+    "genre": "Puzzle",
+    "description": "Pon a prueba tu memoria encontrando parejas de cartas cibernéticas en el menor tiempo posible.",
+    "cover": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "type": "interactive",
+    "rating": 4.3,
+    "featured": true,
+    "emoji": "🧠",
+    "colors": ["#a855f7", "#312e81"],
+    "controls": "Clic o toque sobre las cartas",
+    "screenshots": ["Tablero inicial", "Buscando parejas", "Victoria"],
+    "reviews": [
+      { "user": "LunaCode", "rating": 4, "comment": "Perfecto para un descanso rápido, y es gratis." },
+      { "user": "PixelFox", "rating": 4, "comment": "Los emojis cyberpunk le dan buen estilo." },
+      { "user": "Gamer_77", "rating": 5, "comment": "Lo termino en menos de 40 segundos, ¡reto!" }
+    ]
+  },
+  {
+    "id": "space-runner",
+    "title": "Space Runner 2099",
+    "price": 9.99,
+    "genre": "Acción",
+    "description": "Esquiva meteoritos y naves enemigas en un frenético viaje espacial con estética synthwave.",
+    "cover": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=600&q=80",
+    "type": "canvas",
+    "rating": 4.6,
+    "featured": true,
+    "emoji": "🚀",
+    "colors": ["#ec4899", "#1e1b4b"],
+    "controls": "Flechas del teclado para mover la nave",
+    "screenshots": ["Despegue", "Campo de meteoritos", "Game over"],
+    "reviews": [
+      { "user": "StarLord", "rating": 5, "comment": "La dificultad sube justo al ritmo correcto." },
+      { "user": "AnaDev", "rating": 4, "comment": "Muy fluido para estar hecho en Canvas." }
+    ]
+  },
+  {
+    "id": "pixel-racer",
+    "title": "Retro Pixel Racer",
+    "price": 2.99,
+    "genre": "Carreras",
+    "description": "Carreras de velocidad con gráficos retro de 8 bits y pistas desafiantes.",
+    "cover": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80",
+    "type": "canvas",
+    "rating": 4.1,
+    "featured": false,
+    "emoji": "🏎️",
+    "colors": ["#f59e0b", "#7c2d12"],
+    "controls": "Flechas izquierda y derecha para cambiar de carril",
+    "screenshots": ["Línea de salida", "Tráfico pesado", "Récord de distancia"],
+    "reviews": [
+      { "user": "TurboKid", "rating": 4, "comment": "Simple pero muy divertido, la velocidad engancha." },
+      { "user": "Vera_G", "rating": 4, "comment": "Me recuerda a los arcades de mi infancia." }
+    ]
+  },
+  {
+    "id": "neon-tictactoe",
+    "title": "Neon Tic-Tac-Toe",
+    "price": 1.99,
+    "genre": "Puzzle",
+    "description": "El clásico gato en versión neón. Enfréntate a la computadora y demuestra quién manda en el tablero.",
+    "cover": "",
+    "type": "interactive",
+    "rating": 4.0,
+    "featured": false,
+    "emoji": "⭕",
+    "colors": ["#22d3ee", "#0f172a"],
+    "controls": "Clic o toque sobre una casilla",
+    "screenshots": ["Tablero vacío", "Partida en curso", "Marcador"],
+    "reviews": [
+      { "user": "CarlosJS", "rating": 4, "comment": "La IA bloquea muy bien, cuesta ganarle." },
+      { "user": "MiaPlays", "rating": 4, "comment": "Estilo neón muy limpio." }
+    ]
+  },
+  {
+    "id": "bug-hunter",
+    "title": "Bug Hunter",
+    "price": 3.49,
+    "genre": "Acción",
+    "description": "Los bugs invaden tu código. Atrápalos antes de que desaparezcan, tienes 30 segundos para limpiar el sistema.",
+    "cover": "",
+    "type": "interactive",
+    "rating": 4.4,
+    "featured": false,
+    "emoji": "🐛",
+    "colors": ["#22c55e", "#052e16"],
+    "controls": "Clic o toque sobre los bugs",
+    "screenshots": ["Sistema infectado", "Cazando bugs", "Resultado final"],
+    "reviews": [
+      { "user": "DevOpsDan", "rating": 5, "comment": "Muy divertido, ¡y muy real para un programador!" },
+      { "user": "SofiaUX", "rating": 4, "comment": "Rápido, ideal para jugar en el celular." },
+      { "user": "KernelPanic", "rating": 4, "comment": "Ojalá tuviera ranking." }
+    ]
+  }
+]
